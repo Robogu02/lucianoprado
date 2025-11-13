@@ -18,7 +18,7 @@
 SQL │ Python │ PowerShell │ Windows Server │ Active Directory │ 
 Verint Speech Analytics │ NICE Nexidia │ Genesys Cloud │ 
 Avaya │ Cisco CUCM │ ITIL │ RCA │ BI
-
+```
 ---
 
 ## 📂 Projetos em Destaque
